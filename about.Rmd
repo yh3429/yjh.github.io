@@ -1,0 +1,11 @@
+---
+title: "index"
+author: "yh3429"
+date: "2022-10-31"
+output: html_document
+---
+
+### This is YJH's about page
+
+<img src="image/san.jpg" style="longth：80%"> 
+

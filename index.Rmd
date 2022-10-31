@@ -1,0 +1,17 @@
+---
+title: "index"
+author: "yh3429"
+date: "2022-10-31"
+output: html_document
+---
+
+### This is YJH's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+Here's some text. I like the internet. I use [google](https://www.google.com/) all the time to do data science.
+
+<img src="image/beauty.jpg" style="longth：80%"> 
+
+Here's another page.
+Use [about](about.html).
