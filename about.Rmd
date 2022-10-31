@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ### This is YJH's about page
-### addddd
+### ok
 
 <img src="image/san.jpg" style="longth：80%"> 
 
